@@ -87,4 +87,4 @@ async def search(query : str):
         await bot.say("No results. Check your search syntax is correct or try something else.")
 
 
-bot.run('Mjc0NTcwNTg3NjIyNjA0ODAw.C20BTg.RKRrlcYs36wEq42A_NUYY6zE3Gc')
+bot.run('token')
