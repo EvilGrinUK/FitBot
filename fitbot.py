@@ -4,7 +4,6 @@ from random import randrange
 from urllib.request import Request, urlopen
 
 from discord.ext import commands
-from discord import Channel
 
 description = '''A Bot that searches o.smium.org for fittings and outputs them to a discord channel'''
 
